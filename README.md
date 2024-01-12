@@ -1,2 +1,2 @@
 # Ansible-Roles
-This repo contains ansible roles which does specififc things like provisioning servers and installing softwares etc..
+This repository houses a collection of Ansible roles designed to perform specific tasks, including server provisioning and software installation
